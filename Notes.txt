@@ -1,0 +1,36 @@
+Replicating the algorithm in the paper: Human-level control through deep reinforcement learning
+
+Also used this tut for some help:
+https://www.youtube.com/watch?v=NP8pXZdU-5U&ab_channel=brthor
+
+PyTorch:
+https://pytorch.org/get-started/locally/
+
+Maybe useful... not exactly correct through
+https://github.com/tjwhitaker/human-level-control-through-deep-reinforcement-learning
+
+Resize and stacking of env frames:
+https://stackoverflow.com/questions/67674324/resize-a-state-of-a-gym-environment-composed-by-4-frames-atari-environment
+
+
+Deepmind code:
+https://github.com/deepmind/dqn
+
+
+https://www.youtube.com/watch?v=DrOp_MQGn9o&ab_channel=TheAIEpiphany
+
+Stable baselines
+https://github.com/Stable-Baselines-Team/stable-baselines
+
+
+https://github.com/berkeleydeeprlcourse/homework/blob/master/hw3/dqn_utils.py
+
+
+
+GOOD:
+https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/
+
+https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756
+
+
+https://github.com/PacktPublishing/Hands-on-Reinforcement-Learning-with-PyTorch/blob/master/Section%203/3.7%20Dueling%20DQN%20with%20Pong.ipynb
