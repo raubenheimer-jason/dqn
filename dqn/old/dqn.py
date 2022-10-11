@@ -84,7 +84,7 @@ class Network(torch.nn.Module):
         1st hidden:   Convolves 32 filters of 8 x 8 with stride 4 with the input image and applies a rectifier nonlinearity
         2nd hidden:   Convolves 64 filters of 4 x 4 with stride 2, and applies a rectifier nonlinearity
         3rd hidden:   Convolves 64 filters of 3 x 3 with stride 1, and applies a rectifier nonlinearity
-        4th hidden: Fully-connected and consists of 512 rectifier units.
+        4th hidden:   Fully-connected and consists of 512 rectifier units.
         Output:       Fully-connected linear layer with a single output for each valid action (varied between 4-18 in the games considered)
 
         https://youtu.be/tsy1mgB7hB0?t=1563
